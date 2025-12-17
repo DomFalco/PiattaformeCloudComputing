@@ -1,0 +1,10 @@
+python-ceilometerclient
+keystoneauth1
+scikit-learn
+pandas
+PyYAML
+joblib
+numpy
+requests
+openstacksdk>=1.0.0
+keystoneauth1>=4.0.0
