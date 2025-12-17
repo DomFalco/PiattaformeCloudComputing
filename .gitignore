@@ -1,0 +1,29 @@
+venv/
+env/
+ENV/
+.env
+.venv
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# DevStack temporary files
+*.log
+*.pid
+*.swp
+*.swo
+*~
+
+# IDE files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System files
+Thumbs.db
