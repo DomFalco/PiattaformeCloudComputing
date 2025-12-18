@@ -7,7 +7,7 @@ TARGET_PORT = 8080
 BYTES = random._urandom(1024)
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-print(f"💣 FUOCO da dentro il namespace verso {TARGET_IP}...")
+print(f"Invio pacchetti da dentro il namespace verso {TARGET_IP}...")
 
 sent = 0
 try:
